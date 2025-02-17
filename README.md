@@ -7,4 +7,4 @@ Feel free to crone.
 
 **DEFAULT CREDENTIALS**
 **Email**__: **sam@gmail.com**
-**Password**__: **pass**
+**Password**__: **...**
